@@ -1,2 +1,1 @@
-# Collison-and-blueprint-test
-HI!
+# Box Class
